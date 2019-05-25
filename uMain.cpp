@@ -11,6 +11,12 @@ TMainWindow *MainWindow;
 //---------------------------------------------------------------------------
 __fastcall TMainWindow::TMainWindow(TComponent* Owner)
 	: TForm(Owner)
+/**
+	OPIS METOD(FUNKCJI): Konstruktor klasy TMainWindow
+	OPIS ARGUMENTÓW:
+	OPIS ZMIENNYCH:
+	OPIS WYNIKU METODY(FUNKCJI):
+*/
 {
 }
 //---------------------------------------------------------------------------
