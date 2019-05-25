@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019-05-25 16:36:01.673,=G:\Develop\Project1PCH1.h</Transaction>
+    <Transaction>2019-05-25 16:36:02.304,=G:\Develop\Unit1.cpp</Transaction>
+    <Transaction>2019-05-25 16:37:05.381,G:\Develop\TestRepo\uMain.h=G:\Develop\Unit1.h</Transaction>
+    <Transaction>2019-05-25 16:37:05.381,G:\Develop\TestRepo\uMain.dfm=G:\Develop\Unit1.dfm</Transaction>
+    <Transaction>2019-05-25 16:37:05.381,G:\Develop\TestRepo\uMain.cpp=G:\Develop\Unit1.cpp</Transaction>
+    <Transaction>2019-05-25 16:37:10.322,G:\Develop\TestRepo\Headers.h=G:\Develop\Project1PCH1.h</Transaction>
+    <Transaction>2019-05-25 16:37:21.877,G:\Develop\TestRepo\Testings.cbproj=G:\Develop\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
