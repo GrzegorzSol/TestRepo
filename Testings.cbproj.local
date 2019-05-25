@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899-12-30 00:00:00.000.381,G:\Develop\Unit1.h=G:\Develop\TestRepo\uMain.h</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.304,=G:\Develop\Unit1.cpp</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.381,G:\Develop\Unit1.cpp=G:\Develop\TestRepo\uMain.cpp</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.322,G:\Develop\Project1PCH1.h=G:\Develop\TestRepo\Headers.h</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.877,G:\Develop\Project1.cbproj=G:\Develop\TestRepo\Testings.cbproj</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.381,G:\Develop\Unit1.dfm=G:\Develop\TestRepo\uMain.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.381,G:\Develop\TestRepo\uMain.h=G:\Develop\Unit1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.322,G:\Develop\TestRepo\Headers.h=G:\Develop\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.877,G:\Develop\TestRepo\Testings.cbproj=G:\Develop\Project1.cbproj</Transaction>
     <Transaction>1899-12-30 00:00:00.000.673,=G:\Develop\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.304,=G:\Develop\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.381,G:\Develop\TestRepo\uMain.cpp=G:\Develop\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.381,G:\Develop\TestRepo\uMain.dfm=G:\Develop\Unit1.dfm</Transaction>
   </Transactions>
 </BorlandProject>
