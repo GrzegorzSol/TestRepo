@@ -20,3 +20,26 @@ __fastcall TMainWindow::TMainWindow(TComponent* Owner)
 {
 }
 //---------------------------------------------------------------------------
+void __fastcall TMainWindow::FormDestroy(TObject *Sender)
+/**
+	OPIS METOD(FUNKCJI):
+	OPIS ARGUMENTÓW:
+	OPIS ZMIENNYCH:
+	OPIS WYNIKU METODY(FUNKCJI):
+*/
+{
+	//
+}
+//---------------------------------------------------------------------------
+void __fastcall TMainWindow::FormCreate(TObject *Sender)
+/**
+	OPIS METOD(FUNKCJI):
+	OPIS ARGUMENTÓW:
+	OPIS ZMIENNYCH:
+	OPIS WYNIKU METODY(FUNKCJI):
+*/
+{
+  //
+}
+//---------------------------------------------------------------------------
+
